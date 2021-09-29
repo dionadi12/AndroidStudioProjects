@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material Design</string>
+    <string name="app_name">ScrollVew</string>
     <string name="login">ini string login</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -14,14 +14,6 @@
     <string name="Button7">Button Seven</string>
     <string name="Button8">Button Eight</string>
     <string name="Button9">Button Nine</string>
-    <string name="Button10">Button Seven</string>
-    <string name="login1">login</string>
-    <string name="judulmain">Macam Macam Layout</string>
-    <string name="relativelayout">RelativeLayout</string>
-    <string name="constraintlayout">ContraintLayout</string>
-    <string name="linearlayout">LinearLayout</string>
-    <string name="tablelayout">TableLayout</string>
     <string name="scrollview">ScrollView</string>
-    <string name="scrollviewhorizontal">ScrollView\nHorizontal</string>
-    <string name="materialdesign">MaterialDesign</string>
+
 </resources>
